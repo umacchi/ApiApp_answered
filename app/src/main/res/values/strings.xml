@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ApiApp</string>
+    <!-- TabLayoutのタイトル -->
+    <string name="tab_title_api">新着順</string>
+    <string name="tab_title_favorite">お気に入り</string>
+
+    <!-- Api関連 -->
+    <string name="base_url">https://webservice.recruit.co.jp/hotpepper/gourmet/v1/</string>
+    <string name="api_key">xxxxxxxxxxxxxxxx</string>
+    <string name="api_keyword">ランチ</string>
+
+    <!-- Favorite関連 -->
+    <string name="delete_favorite_dialog_title">お気に入りの削除</string>
+    <string name="delete_favorite_dialog_message">お気に入りを削除しますか？</string>
+    <string name="empty_favorite">お気に入りはまだ登録されていません。</string>
+
+    <!-- 課題:キーワード検索 -->
+    <string name="search_hint">キーワードを入力してください</string>
+    <string name="search_error">キーワードを１文字以上入力してください。</string>
+    <string name="empty_api">条件に合うお店はありませんでした。\nキーワードを変えて検索してください。</string>
+</resources>
